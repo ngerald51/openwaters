@@ -6,7 +6,7 @@ The goal of this open bounty program is to involve the bright minds in open sour
 
 1. Make sure there are no existing Proposals [here](https://github.com/oceanprotocol/openbounty/issues) for something similar to your idea or project. If you think your proposal can improve upon or integrate with exisiting proposal, reference the existing proposal in `Notes` section in your proposal.
 
-2. If nothing similar exists, create a [new Proposal for bounty](https://github.com/oceanprotocol/openbounty/issues/new) in this Repository, fill it out in detail following the [sample proposal for refernce](sample/sample_proposal.md).
+2. If nothing similar exists, create a [new Proposal for bounty](https://github.com/oceanprotocol/openbounty/issues/new) in this Repository, fill it out in detail following the [sample proposal for reference](sample/sample_proposal.md).
 
 ## How it works?
 
