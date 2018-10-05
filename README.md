@@ -1,6 +1,6 @@
 ## Introduction
 
-The goal of this open bounty program is to involve the bright minds in open source community for proposing and developing solutions with us around Ocean Protocol. We at Ocean Protocol are actively working on creating a decentralised data exchange protocol to unlock massive data for AI. We believe in wisdom of the crowd and community driven development. The idea behind Open Bounty program is for you to suggest us what features or applications you would like to see and use in Ocean ecosystem. 
+The goal of this Open Bounty program is to involve the bright minds in the open source community to propose and develop solutions around Ocean Protocol. The goal of Ocean is to create a decentralized data exchange protocol to unlock data for AI. We believe in wisdom of the crowd, and the ability of community-driven development to propel us forward. The idea behind Open Bounty program is for you to suggest what features or applications you would like to see and use in the Ocean Protocol ecosystem. 
 
 ## How to submit a Open Bounty proposal?
 
