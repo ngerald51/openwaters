@@ -1,18 +1,5 @@
 # Open Bounty : Decentralised-Identifier (sample proposal)
 
-<!--ts-->
-
-Table of Contents
-=================
-
-   
-   * [Abstract](##abstract)
-   * [Motivation](##motivation)
-   * [Specification](##specification)
-   * [Implementation](##implmentation)
-
-<!--te-->
-
 ## Abstract
 A DID is a unique identifier that can be resolved or de-referenced to a standard resource describing the entity (a DID Document or DDO).
 If we apply this to Ocean, the DID would be the unique identifier of an object represented in Ocean (ie. the Asset ID of an ASSET or the Actor ID of a USER).
