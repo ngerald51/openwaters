@@ -66,6 +66,3 @@ The HASH could be an optional parameter in the registering of the ASSET. If it's
 ## Open Questions 
 ## Notes
 This sample is referenced from [OEP-7](https://github.com/oceanprotocol/OEPs/tree/master/7) and is intended to be used only as a sample for creating sample proposal for open bounty.
-
-## Your Address
-0x2a4fb80440985fc42a8f79dcad00fc6b231a8043
