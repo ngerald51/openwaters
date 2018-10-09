@@ -1,4 +1,4 @@
-# Open Bounty : Decentralised-Identifier (sample proposal)
+# Open Waters : Decentralised-Identifier (sample proposal)
 
 ## Abstract
 A DID is a unique identifier that can be resolved or de-referenced to a standard resource describing the entity (a DID Document or DDO).
