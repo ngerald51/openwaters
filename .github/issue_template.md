@@ -1,6 +1,6 @@
 _See the [sample proposal](https://github.com/oceanprotocol/openwaters/blob/master/sample/sample_proposal.md) for reference while creating new proposals. And feel free to reach out to us at [our gitter lobby](https://gitter.im/oceanprotocol/Lobby) in case you have further questions._
 
-# Open Bounty : {Proposal Title} 
+# Open Waters : {Proposal Title} 
 
 ## Abstract (required)
 
