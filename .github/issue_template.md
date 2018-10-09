@@ -28,6 +28,3 @@ _(optional) Are there any open questions that you can't figure out for this prop
 
 ## Notes
 _(optional) Any special notes for this proposal?_
-
-## Your Address
-_**(required)** Where should we pay the bounty reward?_
