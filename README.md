@@ -24,3 +24,9 @@ The goal of this Open Bounty program is to involve the bright minds in the open 
 2. We will review the proposal to see if it fits into Ocean Ecosystem and Ocean's Delivery Roadmap.
 
 3. If your proposal is accepted, we will pay out bounty reward over Bounties Network. In case, it is not accepted, we will provide our reasoning and of course, you can propose a new bounty again. 
+
+## More details
+
+- [Ocean Protocol's Medium Blog Post](https://blog.oceanprotocol.com/adrift-in-open-bounty-waters-ca1c484c0fea)
+- [Ocean Protocol's Whitepaper](https://oceanprotocol.com/#papers)
+- [Ocean Protocol's Gitter lobby](https://gitter.im/oceanprotocol/Lobby)
