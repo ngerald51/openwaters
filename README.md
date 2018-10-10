@@ -1,4 +1,4 @@
-![logo](./open-waters-bounty.svg)
+![logo](./openwaters-logo.png)
 
 ## Introduction
 
