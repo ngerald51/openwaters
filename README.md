@@ -25,6 +25,10 @@ The goal of this Open Bounty program is to involve the bright minds in the open 
 
 3. If your proposal is accepted, we will pay out bounty reward over Bounties Network. In case, it is not accepted, we will provide our reasoning and of course, you can propose a new bounty again. 
 
+## Reward
+
+- Reward for each accepted proposal is 750 PROCN. PROCN is a proto-Ocean token. Bounty hunters that earn PROCN will be able to convert them 1:1 to Ocean tokens on network launch (currently Ocean Token is valued at 0.20 EUR). Network launch is expected to happen by Mar 31, 2019. Until then PROCN will be locked and non-transferrable in the ETH wallet to which it is delivered to.
+
 ## More details
 
 - [Ocean Protocol's Medium Blog Post](https://blog.oceanprotocol.com/adrift-in-open-bounty-waters-ca1c484c0fea)
