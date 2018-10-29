@@ -1,4 +1,4 @@
-![logo](./openwaters-logo.png)
+![logo](./open-waters-logo.png)
 
 ## Introduction
 
